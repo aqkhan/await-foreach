@@ -1,0 +1,21 @@
+{
+  "name": "@alphasquad/await-foreach",
+  "version": "1.0.0",
+  "description": "A better foreach with await capability. ",
+  "main": "lib/index.js",
+  "types": "./lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }, 
+  "keywords": [
+    "javascript", "nodejs", "async-await", "async", "await", "foreach"
+  ]
+}
